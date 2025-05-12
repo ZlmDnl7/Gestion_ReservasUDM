@@ -35,8 +35,8 @@ Este repositorio contiene el frontend y backend del proyecto **OASIS**, una plat
 ## 📥 Clonación del proyecto
 
 ```bash
-git clone https://github.com/aaronHenao/OASIS.git
-cd OASIS
+git clone https://github.com/ZlmDnl7/Gestion_ReservasUDM.git
+cd reservas
 
 ----
 🚀 Ejecución local
